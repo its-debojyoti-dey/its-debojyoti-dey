@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**ddey7/ddey7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Hi there, I'm Debo - aka [Debojyoti Dey]🖐🖐
 
@@ -50,5 +46,3 @@
 [twitter]: https://twitter.com/d_dey76
 [instagram]: https://www.instagram.com/mischi3f_maker/
 [linkedin]: https://www.linkedin.com/in/debojyoti-dey-b80651156
-
--->
