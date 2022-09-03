@@ -24,5 +24,5 @@
 <p style="margin:10px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ddey7&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="ddey7" /></p>
 </div>
 
-<p style="margin:10px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ddey7&margin-w=15&margin-h=15" alt="ddey7" /></a> </p>
+<p style="margin:10px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="margin:10px;" src="https://github-profile-trophy.vercel.app/?username=ddey7&margin-w=15&margin-h=15" alt="ddey7" /></a> </p>
 
