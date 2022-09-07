@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm Debo - aka [Debojyoti Dey]🖐🖐</h1>
+<h1 align="center">Hi 👋, I'm Debo - aka [Debojyoti Dey]🖐🖐</h1>
 <h3 align="center">I'm a Student, Developer, and Freelancer!!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ddey7&label=Views&color=0e75b6&style=flat" alt="ddey7" /> </p>
