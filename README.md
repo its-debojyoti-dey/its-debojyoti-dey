@@ -20,6 +20,7 @@
 
 <br/>
 
+[![](https://visitcount.itsvg.in/api?id=ddey7&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## My Skill Set
 <table><tr><td valign="top" width="33%">
@@ -116,6 +117,3 @@
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=ddey7&icon=0&color=0)](https://visitcount.itsvg.in)
