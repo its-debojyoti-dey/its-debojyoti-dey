@@ -9,21 +9,21 @@
 
 ---
 
-## 🚀 Featured Showcase Projects
+## Featured Showcase Projects
 
 | Project | Tech Stack | Description | Source |
 | :--- | :--- | :--- | :--- |
-| 👗 **[StyleSense AI](https://github.com/its-debojyoti-dey/StyleSense-AI)** | Python, FastAPI, React 19, Gemini Vision, Chrome Ext | AI-powered fashion & outfit recommendation ecosystem featuring visual garment recognition & sidepanel UI. | [GitHub Repo](https://github.com/its-debojyoti-dey/StyleSense-AI) |
-| 🎧 **[Listener Hub](https://github.com/its-debojyoti-dey/Listener-Hub)** | Next.js 15, Node.js, BullMQ, Redis, Agora RTC | Autonomous multi-agent platform connecting users with listeners via encrypted audio sessions. | [GitHub Repo](https://github.com/its-debojyoti-dey/Listener-Hub) |
-| 📚 **[BookStall Inventory](https://github.com/its-debojyoti-dey/BookStall-Inventory-App)** | MERN Stack, TypeScript, OpenRouter AI, Tailwind | Production-grade inventory web application for stationery/book stalls with real-time stock alerts & AI categorization. | [GitHub Repo](https://github.com/its-debojyoti-dey/BookStall-Inventory-App) |
-| 🔍 **[GitHub PR Filter](https://github.com/its-debojyoti-dey/github-pr-filter)** | TypeScript, Vite, Chrome Extension Manifest V3 | Native-feeling Chromium browser extension replacing GitHub's search input with interactive filter bars & chips. | [GitHub Repo](https://github.com/its-debojyoti-dey/github-pr-filter) |
-| 💼 **[ApplyFlow](https://github.com/its-debojyoti-dey/applyflow)** | React 19, TypeScript, Vite, Chrome API | LinkedIn & YC Job Search Helper extension with custom time filters, recruiter inspectors, and DOM engine. | [GitHub Repo](https://github.com/its-debojyoti-dey/applyflow) |
+|  **[StyleSense AI](https://github.com/its-debojyoti-dey/StyleSense-AI)** | Python, FastAPI, React 19, Gemini Vision, Chrome Ext | AI-powered fashion & outfit recommendation ecosystem featuring visual garment recognition & sidepanel UI. | [GitHub Repo](https://github.com/its-debojyoti-dey/StyleSense-AI) |
+| **[Listener Hub](https://github.com/its-debojyoti-dey/Listener-Hub)** | Next.js 15, Node.js, BullMQ, Redis, Agora RTC | Autonomous multi-agent platform connecting users with listeners via encrypted audio sessions. | [GitHub Repo](https://github.com/its-debojyoti-dey/Listener-Hub) |
+| **[BookStall Inventory](https://github.com/its-debojyoti-dey/BookStall-Inventory-App)** | MERN Stack, TypeScript, OpenRouter AI, Tailwind | Production-grade inventory web application for stationery/book stalls with real-time stock alerts & AI categorization. | [GitHub Repo](https://github.com/its-debojyoti-dey/BookStall-Inventory-App) |
+| **[GitHub PR Filter](https://github.com/its-debojyoti-dey/github-pr-filter)** | TypeScript, Vite, Chrome Extension Manifest V3 | Native-feeling Chromium browser extension replacing GitHub's search input with interactive filter bars & chips. | [GitHub Repo](https://github.com/its-debojyoti-dey/github-pr-filter) |
+| **[ApplyFlow](https://github.com/its-debojyoti-dey/applyflow)** | React 19, TypeScript, Vite, Chrome API | LinkedIn & YC Job Search Helper extension with custom time filters, recruiter inspectors, and DOM engine. | [GitHub Repo](https://github.com/its-debojyoti-dey/applyflow) |
 
 ---
 
-## 🛠 Tech Stack & Core Competencies
+## Tech Stack & Core Competencies
 
-### 🤖 AI & Multi-Agent Systems
+### AI & Multi-Agent Systems
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Google ADK](https://img.shields.io/badge/Google--ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -33,14 +33,14 @@
 ![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-black?style=for-the-badge)
 
-### 🎙️ Real-Time & Voice AI
+### Real-Time & Voice AI
 ![LiveKit](https://img.shields.io/badge/LiveKit-WebRTC-blue?style=for-the-badge)
 ![Ultravox SDK](https://img.shields.io/badge/Ultravox-Voice--AI-orange?style=for-the-badge)
 ![Twilio](https://img.shields.io/badge/Twilio-PSTN%2FSIP-red?style=for-the-badge&logo=twilio&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-Realtime-lightgrey?style=for-the-badge)
 ![Agora RTC](https://img.shields.io/badge/Agora-Audio--RTC-0099FF?style=for-the-badge)
 
-### 💻 Full-Stack & Browser Extensions
+### Full-Stack & Browser Extensions
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React 19](https://img.shields.io/badge/React-19-20232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js 15](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -49,7 +49,7 @@
 ![Chrome Extensions](https://img.shields.io/badge/Manifest--V3-Browser--Ext-red?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙️ Backend, Data & DevOps
+### Backend, Data & DevOps
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
@@ -58,7 +58,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=its-debojyoti-dey&theme=dark&show_icons=true&count_private=true&include_all_commits=true" height="175" alt="GitHub Stats" />
