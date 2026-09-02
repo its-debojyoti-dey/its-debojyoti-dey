@@ -55,15 +55,3 @@
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=its-debojyoti-dey&theme=dark&show_icons=true&count_private=true&include_all_commits=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-debojyoti-dey&theme=dark&layout=compact&count_private=true" height="175" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=its-debojyoti-dey&theme=dark&hide_border=false" alt="Streak Stats" />
-</p>
